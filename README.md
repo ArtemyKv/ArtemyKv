@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on refactroring ***Todoosha app*** to MVP architecture with Coordinator
 - 🌱 I’m currently learning ***TDD, Unit-tests***
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/artem-kvashnin-972028236), [email](mailto:artemykv@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/artem-kvashnin-972028236), [email](mailto:artemykv@gmail.com)
 - 🌍 I speak English, Russian
 ___
 
