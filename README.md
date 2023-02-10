@@ -17,6 +17,7 @@
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/artem-kvashnin-972028236), [email](mailto:artemykv@gmail.com)
 - 🌍 I speak English, Russian
+-  ⚡ Interesting fact: I used to be a lead engineer in a building company
 ___
 
 ### Languages and tools:
