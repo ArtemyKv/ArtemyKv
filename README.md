@@ -15,22 +15,54 @@
 - 🔭 I’m currently working on refactroring ***Todoosha app*** to MVP architecture with Coordinator
 - 🌱 I’m currently learning ***TDD, Unit-tests***
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 How to reach me: [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/artem-kvashnin-972028236), [email](mailto:artemykv@gmail.com)
 - 🌍 I speak English, Russian
 ___
 
 ### Languages and tools:
 <div id="tools" align="left">
 	<a>
-    <img src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square"/>
 	</a>
   	<a>
-    <img src="https://img.shields.io/badge/-iOS--SDK-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-iOS--SDK-green?style=flat-square"/>
 	</a>
   	<a>
-    <img src="https://img.shields.io/badge/-UIKit-yellow"/>
+    <img src="https://img.shields.io/badge/-UIKit-yellow?style=flat-square"/>
 	</a>
-
+  	<a>
+    <img src="https://img.shields.io/badge/-Auto layout-blue?style=flat-square"/>
+	</a>
+ 	<a>
+    <img src="https://img.shields.io/badge/-Snapkit%5CConstraints-yellowgreen?style=flat-square"/>
+	</a>
+	<a>
+    <img src="https://img.shields.io/badge/-Core Data-orange?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-RESTful API-lightgray?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-SOLID-blueviolet?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-MVC-critical?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-MVP-brightgreen?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-MVVM-yellow?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-Git-red?style=flat-square"/>
+	</a>
+	  	<a>
+    <img src="https://img.shields.io/badge/-Unit--tests-blue?style=flat-square"/>
+	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-TDD-success?style=flat-square"/>
+	</a>
 </div>
 
 <!--
