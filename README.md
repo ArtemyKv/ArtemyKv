@@ -64,6 +64,9 @@ ___
   	<a>
     <img src="https://img.shields.io/badge/-TDD-success?style=flat-square"/>
 	</a>
+  	<a>
+    <img src="https://img.shields.io/badge/-Alamofire-lightgray?style=flat-square"/>
+	</a>
 </div>
 
 <!--
