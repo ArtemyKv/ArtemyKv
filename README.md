@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Artemy</h1>
-	<h3>Junior Mobile iOS developer from Ekaterinburg, Russia</h3>
+	<h3>Mobile iOS developer from Ekaterinburg, Russia</h3>
 </div>
 <div id="socials" align="center">
 	<a href="www.linkedin.com/in/artem-kvashnin-972028236">
