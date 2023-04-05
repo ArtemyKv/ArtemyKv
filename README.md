@@ -14,7 +14,7 @@
 ### About me:
 - 🔭 I’m currently working on new features in ***PlanDo List*** 
 - 🌱 I’m currently learning ***SwiftUI***
-- 📄 Know about my experiences [CV](cv-link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/130GEdgT6ZFe_V_X7uugfJydn_AglU9ad/view?usp=share_link)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/artem-kvashnin-972028236), [email](mailto:artemykv@gmail.com)
 - 🌍 I speak English, Russian
 -  ⚡ Interesting fact: I used to be a lead engineer in a building company
