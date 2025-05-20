@@ -12,8 +12,6 @@
 </div>
 
 ### About me:
-- 🔭 I’m currently working on app ***Boardgame score tracker*** 
-- 🌱 I’m currently learning ***SwiftUI***
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/artem-kvashnin-972028236), [email](mailto:artemykv@gmail.com)
 - 🌍 I speak English, Russian
 -  ⚡ Interesting fact: I used to be a lead engineer in a building company
